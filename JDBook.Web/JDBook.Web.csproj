@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JDBook.BLL\JDBook.BLL.csproj" />
+    <ProjectReference Include="..\JDBook.IBLL\JDBook.IBLL.csproj" />
+    <ProjectReference Include="..\JDBook.IServer\JDBook.IServer.csproj" />
+    <ProjectReference Include="..\JDBook.Model\JDBook.Model.csproj" />
+    <ProjectReference Include="..\JDBook.Server\JDBook.Server.csproj" />
+  </ItemGroup>
+
+</Project>

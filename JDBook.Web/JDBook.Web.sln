@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDBook.Web", "JDBook.Web.csproj", "{9C3343E4-443A-432F-893E-0016D7444CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDBook.Server", "..\JDBook.Server\JDBook.Server.csproj", "{AEE60027-DF80-4E72-AF09-51C445FCF4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDBook.IServer", "..\JDBook.IServer\JDBook.IServer.csproj", "{8BC78B02-33B5-4F0A-8DEC-D0B4DD2B524A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDBook.BLL", "..\JDBook.BLL\JDBook.BLL.csproj", "{7082227D-8A2A-4D2A-9D5E-DD7F3B735CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDBook.IBLL", "..\JDBook.IBLL\JDBook.IBLL.csproj", "{0D99ECE5-5AF0-4115-A2EA-97ADA8428D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDBook.Model", "..\JDBook.Model\JDBook.Model.csproj", "{CA99C597-F27A-4057-8681-75B3D36F842B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3343E4-443A-432F-893E-0016D7444CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3343E4-443A-432F-893E-0016D7444CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3343E4-443A-432F-893E-0016D7444CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3343E4-443A-432F-893E-0016D7444CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE60027-DF80-4E72-AF09-51C445FCF4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE60027-DF80-4E72-AF09-51C445FCF4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE60027-DF80-4E72-AF09-51C445FCF4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE60027-DF80-4E72-AF09-51C445FCF4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC78B02-33B5-4F0A-8DEC-D0B4DD2B524A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC78B02-33B5-4F0A-8DEC-D0B4DD2B524A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC78B02-33B5-4F0A-8DEC-D0B4DD2B524A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC78B02-33B5-4F0A-8DEC-D0B4DD2B524A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7082227D-8A2A-4D2A-9D5E-DD7F3B735CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7082227D-8A2A-4D2A-9D5E-DD7F3B735CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7082227D-8A2A-4D2A-9D5E-DD7F3B735CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7082227D-8A2A-4D2A-9D5E-DD7F3B735CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D99ECE5-5AF0-4115-A2EA-97ADA8428D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D99ECE5-5AF0-4115-A2EA-97ADA8428D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D99ECE5-5AF0-4115-A2EA-97ADA8428D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D99ECE5-5AF0-4115-A2EA-97ADA8428D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA99C597-F27A-4057-8681-75B3D36F842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA99C597-F27A-4057-8681-75B3D36F842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA99C597-F27A-4057-8681-75B3D36F842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA99C597-F27A-4057-8681-75B3D36F842B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9630D661-D9BF-4C76-AE26-AEAEEE5A832B}
+	EndGlobalSection
+EndGlobal
