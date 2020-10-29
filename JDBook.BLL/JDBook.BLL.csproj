@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JDBook.IBLL\JDBook.IBLL.csproj" />
+    <ProjectReference Include="..\JDBook.IServer\JDBook.IServer.csproj" />
+    <ProjectReference Include="..\JDBook.Model\JDBook.Model.csproj" />
+  </ItemGroup>
+
+</Project>
