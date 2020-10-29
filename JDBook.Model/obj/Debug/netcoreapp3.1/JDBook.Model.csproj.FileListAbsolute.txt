@@ -1,0 +1,9 @@
+D:\日常练习\JDBook\JDBook.Model\bin\Debug\netcoreapp3.1\JDBook.Model.deps.json
+D:\日常练习\JDBook\JDBook.Model\bin\Debug\netcoreapp3.1\JDBook.Model.dll
+D:\日常练习\JDBook\JDBook.Model\bin\Debug\netcoreapp3.1\JDBook.Model.pdb
+D:\日常练习\JDBook\JDBook.Model\obj\Debug\netcoreapp3.1\JDBook.Model.AssemblyInfoInputs.cache
+D:\日常练习\JDBook\JDBook.Model\obj\Debug\netcoreapp3.1\JDBook.Model.AssemblyInfo.cs
+D:\日常练习\JDBook\JDBook.Model\obj\Debug\netcoreapp3.1\JDBook.Model.csproj.CoreCompileInputs.cache
+D:\日常练习\JDBook\JDBook.Model\obj\Debug\netcoreapp3.1\JDBook.Model.dll
+D:\日常练习\JDBook\JDBook.Model\obj\Debug\netcoreapp3.1\JDBook.Model.pdb
+D:\日常练习\JDBook\JDBook.Model\obj\Debug\netcoreapp3.1\JDBook.Model.csprojAssemblyReference.cache
